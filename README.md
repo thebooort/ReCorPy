@@ -66,8 +66,4 @@ Use [Black](https://black.readthedocs.io/en/stable/) for code formatting and [Co
 [pypi-url]: https://pypi.org/project/recorpy/
 [build-image]: https://github.com/thebooort/recorpy/actions/workflows/python-app.yml/badge.svg
 [build-url]: https://github.com/thebooort/recorpy/actions/workflows/python-app.yml
-[coverage-image]: https://codecov.io/gh/thebooort/recorpy/branch/main/graph/badge.svg
-[coverage-url]: https://codecov.io/gh/thebooort/recorpy
-[quality-image]: https://api.codeclimate.com/v1/badges/3130fa0ba3b7993fbf0a/maintainability
-[quality-url]: https://codeclimate.com/github/thebooort/recorpy
 
