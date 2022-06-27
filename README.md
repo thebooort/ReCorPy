@@ -6,6 +6,7 @@
 
 > A python's package for reordering/clustering correlation matrices
 
+[![DOI](https://zenodo.org/badge/506917975.svg)](https://zenodo.org/badge/latestdoi/506917975)
 [![Documentation Status](https://readthedocs.org/projects/recorpy/badge/?version=latest)](https://recorpy.readthedocs.io/en/latest/?badge=latest)
 [![PyPI Version][pypi-image]][pypi-url]
 [![Build Status][build-image]][build-url]
