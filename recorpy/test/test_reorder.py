@@ -20,7 +20,7 @@ sys.path.append(".")
 
 
 # local import
-from reorder import ReorderCorr
+from recorpy.reorder import ReorderCorr
 
 
 @pytest.fixture(scope="module")

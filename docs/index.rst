@@ -10,6 +10,12 @@ Welcome to RecorPy's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+RecorPy
+==================
+.. automodule:: recorpy.reorder 
+   :members:
+
+
 
 
 Indices and tables
