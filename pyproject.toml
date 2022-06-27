@@ -9,4 +9,4 @@ readme = "README.md"
 dynamic = ["version", "description"]
 
 [project.urls]
-Home = "https://github.com/thebooort/ReCorPy"
+Home = "https://github.com/thebooort/recorpy"
