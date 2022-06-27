@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: >-
+  ReCorPy: a tool for reordering correlation
+  matrices.
+message: If you use this package please cite it!
+type: software
+authors:
+  - given-names: Bartolome Ortiz-Viso
+    name-particle: Bart
+    family-names: Ortiz-Viso
+    name-suffix: .
+    email: bortiz@ugr.es
+    affiliation: University of Granada
+    orcid: 'https://orcid.org/0000-0003-2181-0734'
