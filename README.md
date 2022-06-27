@@ -1,5 +1,5 @@
 ![logo](assets/logo.png "ReCorPy")
-# ReCorPy
+<h2 align="center">ReCorPy</h2>
 
 > A python's package for reordering/clustering correlation matrices
 
