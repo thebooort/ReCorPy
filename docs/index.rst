@@ -12,8 +12,8 @@ Welcome to RecorPy's documentation!
 
 RecorPy
 ==================
-.. automodule:: recorpy.reorder 
-   :members:
+recorpy.reorder 
+
 
 
 
