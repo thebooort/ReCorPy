@@ -6,11 +6,10 @@
 
 > A python's package for reordering/clustering correlation matrices
 
-
+[![Documentation Status](https://readthedocs.org/projects/recorpy/badge/?version=latest)](https://recorpy.readthedocs.io/en/latest/?badge=latest)
 [![PyPI Version][pypi-image]][pypi-url]
 [![Build Status][build-image]][build-url]
 [![Coverage Status](https://coveralls.io/repos/github/thebooort/ReCorPy/badge.svg?branch=main)](https://coveralls.io/github/thebooort/ReCorPy?branch=main)
-[![Code Quality][quality-image]][quality-url]
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 
 `recorpy` reorder correlation matrixes to get better visual analysis. All it is made with the original dataframe. And the result
@@ -64,8 +63,8 @@ Use [Black](https://black.readthedocs.io/en/stable/) for code formatting and [Co
 
 [pypi-image]: https://img.shields.io/pypi/v/recorpy
 [pypi-url]: https://pypi.org/project/recorpy/
-[build-image]: https://github.com/thebooort/recorpy/actions/workflows/build.yml/badge.svg
-[build-url]: https://github.com/thebooort/recorpy/actions/workflows/build.yml
+[build-image]: https://github.com/thebooort/recorpy/actions/workflows/python-app.yml/badge.svg
+[build-url]: https://github.com/thebooort/recorpy/actions/workflows/python-app.yml
 [coverage-image]: https://codecov.io/gh/thebooort/recorpy/branch/main/graph/badge.svg
 [coverage-url]: https://codecov.io/gh/thebooort/recorpy
 [quality-image]: https://api.codeclimate.com/v1/badges/3130fa0ba3b7993fbf0a/maintainability
