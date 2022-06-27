@@ -12,4 +12,4 @@
 
 from recorpy.reorder import ReorderCorr
 
-__version__ = "0.1.0"
+__version__ = "0.1.2"
