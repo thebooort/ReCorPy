@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/logo.png">
+  <img src="(https://raw.githubusercontent.com/thebooort/ReCorPy/main/assets/logo.png)">
 </p>
 <h2 align="center">ReCorPy</h2>
 
@@ -9,7 +9,7 @@
 
 [![PyPI Version][pypi-image]][pypi-url]
 [![Build Status][build-image]][build-url]
-[![Code Coverage][coverage-image]][coverage-url]
+[![Coverage Status](https://coveralls.io/repos/github/thebooort/ReCorPy/badge.svg?branch=main)](https://coveralls.io/github/thebooort/ReCorPy?branch=main)
 [![Code Quality][quality-image]][quality-url]
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 
