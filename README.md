@@ -8,6 +8,7 @@
 [![Build Status][build-image]][build-url]
 [![Code Coverage][coverage-image]][coverage-url]
 [![Code Quality][quality-image]][quality-url]
+<a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 
 `recorpy` reorder correlation matrixes to get better visual analysis. All it is made with the original dataframe. And the result
 is a new dataframe with columns reordered, to let you re-use it wherever you want.
