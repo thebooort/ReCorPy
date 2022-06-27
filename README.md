@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="(https://raw.githubusercontent.com/thebooort/ReCorPy/main/assets/logo.png)">
+  <img src="https://raw.githubusercontent.com/thebooort/ReCorPy/main/assets/logo.png">
 </p>
 <h2 align="center">ReCorPy</h2>
 
