@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*-coding:utf-8 -*-
+"""""" 
 """
 @File    :   reorder.py
 @Time    :   2022/06/24 10:41:13
@@ -18,11 +19,12 @@ from sklearn.metrics.pairwise import cosine_similarity
 def ReorderCorr(
     df, corr_threshold=0.8, corr_method="pearson", order="chain", manual_order=None
 ):
-    """ReorderCorr reorders the columns of a dataframe based on its correlation matrix
-       to analyze clusters better. It is based on METHODS OF REORDERING THE
-       CORRELATION MATRIX TO FACILITATE VISUAL INSPECTION AND PRELIMINARY CLUSTER ANALYSIS
-       (1973) by John Edward Hunter and de corReorder package by David W. Gerbing
-       (Portland State University; gerbing@pdx.edu)
+
+    """ReorderCorr reorders the columns of a dataframe based on its correlation matrix to analyze clusters better.
+        It is based on METHODS OF REORDERING THE
+        CORRELATION MATRIX TO FACILITATE VISUAL INSPECTION AND PRELIMINARY CLUSTER ANALYSIS
+        (1973) by John Edward Hunter and de corReorder package by David W. Gerbing
+        (Portland State University; gerbing@pdx.edu)
 
     Args:
         df (pandas.DataFrame): Dataframe with data
